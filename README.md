@@ -1,14 +1,15 @@
 <!-- Typing Animation -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello,+I+am+Matteo;Welcome+to+my+GitHub!;GenAI Developer+%7C+AI Agents+%7C+LLMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello+I+am+Matteo;Welcome+to+my+GitHub!;GenAI+Developer+%7C+AI+Agents+%7C+LLMs)](https://git.io/typing-svg)
 
 </div>
 
-<!-- GitHub Stats -->
+<!-- GitHub Streak -->
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatteoFalcioni&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatteoFalcioni&theme=radical)](https://git.io/streak-stats)
+
 
 </div>
 
