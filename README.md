@@ -11,3 +11,10 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatteoFalcioni&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<!-- Top Languages -->
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoFalcioni&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
