@@ -1,1 +1,1 @@
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatteoFalcioni&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Ciao+sono+Matteo;Benvenuto+nel+mio+profilo!;Developer+%7C+Coder+%7C+Maker)](https://git.io/typing-svg)
