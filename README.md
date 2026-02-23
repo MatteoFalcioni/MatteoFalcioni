@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,git,linux,theme=dark" />
+    <img src="https://skillicons.dev/icons?i=langchain,langgraph,python,pytorch,fastapi,git,linux,theme=dark" />
   </a>
 </div>
 
