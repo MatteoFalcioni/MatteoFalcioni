@@ -3,6 +3,8 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB950&width=435&lines=HI,+I+am+Matteo+%3A%29;Welcome+to+my+GitHub!;GenAI+Developer+%7C+AI+Agents+%7C+@Unibo)](https://git.io/typing-svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/MatteoFalcioni/github-readme-stats)
+
 </div>
 <!-- Activity Graph -->
 <div align="center">
