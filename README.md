@@ -19,3 +19,13 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatteoFalcioni/MatteoFalcioni/output/github-snake.svg">
   </picture>
 </div>
+
+
+🧬 **Matteo Falcioni | GenAI & Agentic Systems**
+**AI Researcher @ University of Bologna Building the next generation of autonomous reasoning agents.**
+
+🧠 Current Focus: Architecting complex LangGraph workflows and multi-agent systems with RAG.
+
+💻 Core Tech: Python, PyTorch, LangChain, Hugging Face, and CUDA optimization.
+
+🧩 Background: Applied Physics & Geospatial AI (CNN-based LiDAR classification).
