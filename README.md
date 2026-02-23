@@ -4,7 +4,8 @@
   </a>
   <br>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-2C3E50?style=for-the-badge&logo=google-charts&logoColor=white" />
+  <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" /> 
 </div>
 
 <div align="center">
