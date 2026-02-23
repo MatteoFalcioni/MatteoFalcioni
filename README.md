@@ -1,7 +1,10 @@
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=langchain,langgraph,python,pytorch,fastapi,git,linux,theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,git,linux&theme=dark" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2C3E50?style=for-the-badge&logo=google-charts&logoColor=white" />
 </div>
 
 <div align="center">
