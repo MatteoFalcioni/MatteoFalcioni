@@ -21,7 +21,7 @@
 </div>
 
 
-🧬 **Matteo Falcioni | GenAI & Agentic Systems**
+## Matteo Falcioni | GenAI & Agentic Systems
 
 **AI Researcher @ University of Bologna Building the next generation of autonomous reasoning agents.**
 
