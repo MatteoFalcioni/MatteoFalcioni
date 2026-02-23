@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Current_Mission-Building_AI_Agents_at_Unibo-3FB950?style=for-the-badge&logo=unibo&logoColor=white" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MatteoFalcioni/MatteoFalcioni/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
