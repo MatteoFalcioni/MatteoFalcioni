@@ -22,6 +22,7 @@
 
 
 🧬 **Matteo Falcioni | GenAI & Agentic Systems**
+
 **AI Researcher @ University of Bologna Building the next generation of autonomous reasoning agents.**
 
 🧠 Current Focus: Architecting complex LangGraph workflows and multi-agent systems with RAG.
