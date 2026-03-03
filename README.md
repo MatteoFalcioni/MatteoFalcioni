@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Current_Mission-Building_AI_Agents_at_Unibo-3FB950?style=for-the-badge&logo=unibo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current_Mission-Building_AI_Agents_at_AXPO-3FB950?style=for-the-badge&logo=unibo&logoColor=white" />
 </div>
 
 <div align="center">
@@ -23,10 +23,8 @@
 
 ## Matteo Falcioni | GenAI & Agentic Systems
 
-**AI Researcher @ University of Bologna Building the next generation of autonomous reasoning agents.**
+**AI Engineer @ Axpo, focusing on GenAI**
 
-🧠 Current Focus: Architecting complex LangGraph workflows and multi-agent systems with RAG.
+🧠 Current Focus: Architecting complex GenAI workflows and multi-agent systems.
 
-💻 Core Tech: Python, PyTorch, LangChain, Hugging Face, and CUDA optimization.
-
-🧩 Background: Applied Physics & Geospatial AI (CNN-based LiDAR classification).
+🧩 Background: Applied Physicist
